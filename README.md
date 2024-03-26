@@ -1,4 +1,4 @@
-# Career_chatbot
+# IT Career Consultation Chatbot
 This is an IT Career Consultation Chatbot.
 
 Developed a career chatbot GUI using Tkinter, providing a user-friendly interface. Extracted and processed text from a specified PDF file using PyPDF2.
